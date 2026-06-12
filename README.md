@@ -122,8 +122,8 @@ Ensure the following are installed on your machine:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/attendance-system.git
-cd attendance-system
+git clone https://github.com/your-username/student_attendance_system_API.git
+cd student_attendance_system_API
 ```
 
 **2. Install dependencies**
